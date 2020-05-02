@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Hi Diana, I hope you have a great day 
+          Learn React by Ronv4
         </a>
       </header>
     </div>
@@ -24,3 +24,4 @@ function App() {
 }
 
 export default App;
+© 2020 GitHub, Inc.
