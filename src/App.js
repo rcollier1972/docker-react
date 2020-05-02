@@ -24,3 +24,4 @@ function App() {
 }
 
 export default App;
+© 2020 GitHub, Inc.
